@@ -1,2 +1,2 @@
 [start]
-cmd = "guicorn server:app"
+cmd = "gunicorn server:app"
